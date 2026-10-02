@@ -1,0 +1,32 @@
+# Flutter/Dart generated state and build products
+**/.dart_tool/
+**/.flutter-plugins-dependencies
+**/build/
+**/.pub-cache/
+**/.pub/
+**/coverage/
+**/android/.gradle/
+**/android/local.properties
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Pods/
+**/ios/.symlinks/
+
+# Local configuration, databases, uploads, and secrets
+.env
+**/.env
+**/*.db
+**/*.sqlite
+**/*.sqlite3
+**/uploads/
+**/.venv/
+**/__pycache__/
+**/*.py[cod]
+
+# IDE and OS state
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+*.log
